@@ -17,8 +17,13 @@ namespace ECommerceMVC.Controllers
         {
             return View();
         }
+        [Route("/404")]
+		public IActionResult NotFound404()
+		{
+			return View();
+		}
 
-        public IActionResult Privacy()
+		public IActionResult Privacy()
         {
             return View();
         }
