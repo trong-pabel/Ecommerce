@@ -50,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/C Sharp/Ecommerce/ECommerceMVC/ECommerceMVC/Views/HangHoa/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/C Sharp/Ecommerce/ECommerceMVC/ECommerceMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -72,6 +76,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/C Sharp/Ecommerce/ECommerceMVC/ECommerceMVC/Views/Shared/_LayoutCustomer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C Sharp/Ecommerce/ECommerceMVC/ECommerceMVC/Views/Shared/_ListGoods.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MaXN0R29vZHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/C Sharp/Ecommerce/ECommerceMVC/ECommerceMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
