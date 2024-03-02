@@ -20,7 +20,6 @@ namespace ECommerceMVC.ViewComponents
 			}).OrderBy(p => p.TenLoai);
 
 			return View("MenuCategoryPage", data); // Default.cshtml
-												   //return View("Default", data);
 		}
 	}
 }
