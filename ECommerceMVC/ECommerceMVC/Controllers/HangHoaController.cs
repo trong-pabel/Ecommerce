@@ -9,9 +9,9 @@ namespace ECommerceMVC.Controllers
 	{
 		private readonly EcommerceContext db;
 
-		public HangHoaController(EcommerceContext conetxt)
+		public HangHoaController(EcommerceContext context)
 		{
-			db = conetxt;
+			db = context;
 		}
 
 		public IActionResult Index(int? loai)
