@@ -1,5 +1,6 @@
 using ECommerceMVC.Data;
 using ECommerceMVC.Helpers;
+using ECommerceMVC.Services;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 
@@ -29,6 +30,8 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
 	options.LoginPath = "/KhachHang/DangNhap";
 	options.AccessDeniedPath = "/AccessDenied";
 });
+
+builder.Services.AddSingleton<IVnPayService, VnPayService>();
 
 var app = builder.Build();
 
