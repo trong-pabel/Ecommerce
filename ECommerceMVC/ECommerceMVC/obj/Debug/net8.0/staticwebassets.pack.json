@@ -337,6 +337,10 @@
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Author.jpg"
     },
     {
+      "Id": "D:\\C Sharp\\Ecommerce\\ECommerceMVC\\ECommerceMVC\\wwwroot\\Hinh\\KhachHang\\IMG_0815.JPG",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\IMG_0815.JPG"
+    },
+    {
       "Id": "D:\\C Sharp\\Ecommerce\\ECommerceMVC\\ECommerceMVC\\wwwroot\\Hinh\\KhachHang\\Penguins.jpg",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Penguins.jpg"
     },
