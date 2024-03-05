@@ -26,8 +26,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\C Sharp\Ecommerce\ECommerceMVC\ECommerceMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/C Sharp/Ecommerce/ECommerceMVC/ECommerceMVC/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/C Sharp/Ecommerce/ECommerceMVC/ECommerceMVC/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C Sharp/Ecommerce/ECommerceMVC/ECommerceMVC/Views/Cart/PaymentFail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxQYXltZW50RmFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C Sharp/Ecommerce/ECommerceMVC/ECommerceMVC/Views/Cart/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxTdWNjZXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/C Sharp/Ecommerce/ECommerceMVC/ECommerceMVC/Views/HangHoas/Create.cshtml]

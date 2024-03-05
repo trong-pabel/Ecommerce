@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B5dDI2DmtSat5Ywt28C/5EZe76pyCUeoCp8aGCCD9oU=",
+  "Hash": "QZ8GHrU3t8COSVXYroAOO/crYx8v64dfC6RS28cCZTg=",
   "Source": "ECommerceMVC",
   "BasePath": "_content/ECommerceMVC",
   "Mode": "Default",
@@ -5221,6 +5221,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\Author.jpg"
+    },
+    {
+      "Identity": "D:\\C Sharp\\Ecommerce\\ECommerceMVC\\ECommerceMVC\\wwwroot\\Hinh\\KhachHang\\IMG_0814.JPG",
+      "SourceId": "ECommerceMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C Sharp\\Ecommerce\\ECommerceMVC\\ECommerceMVC\\wwwroot\\",
+      "BasePath": "_content/ECommerceMVC",
+      "RelativePath": "Hinh/KhachHang/IMG_0814.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\IMG_0814.JPG"
     },
     {
       "Identity": "D:\\C Sharp\\Ecommerce\\ECommerceMVC\\ECommerceMVC\\wwwroot\\Hinh\\KhachHang\\IMG_0815.JPG",
